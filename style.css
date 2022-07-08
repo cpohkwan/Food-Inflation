@@ -1,6 +1,6 @@
 html, body {
     margin: 0;
-    background: white;
+    background: beige;
 }
 
 .section {
@@ -9,7 +9,7 @@ html, body {
 }
 
 img {
-    max-width: 80%
+    max-width: 100%
 }
 
 .full-size-image {
@@ -23,8 +23,8 @@ img {
 
 .plot-holder .caption {
     color: #333;
-    text-align: right;
-    font-size: 0.70em;
+    text-align: center;
+    font-size: 1em;
 }
 
 .plot-holder h3 {
