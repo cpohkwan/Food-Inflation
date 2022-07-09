@@ -1,6 +1,6 @@
 html, body {
     margin: 0;
-    background: beige;
+    background: white;
 }
 
 .section {
@@ -18,17 +18,18 @@ img {
 }
 
 .plot-holder {
-    margin-bottom: 1em;
+    margin-bottom: 2em;
 }
 
 .plot-holder .caption {
     color: #333;
     text-align: center;
     font-size: 1em;
+    font-style: italic;
 }
 
 .plot-holder h3 {
-    font-size: 2em;
+    font-size: 1.5em;
 }
 
 .plot-holder .subtitle {
@@ -36,6 +37,6 @@ img {
 }
 
 .content h1 {
-    font-size: 3em;
+    font-size: 2.5em;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
