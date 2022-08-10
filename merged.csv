@@ -1,0 +1,142 @@
+Country,Food Inflation Rate,Previous,Reference,Unit,year,Income Group
+Burkina Faso,25.2,25.7,1/5/22,%,2022,Low income
+Burundi,22.9,19.3,1/5/22,%,2022,Low income
+Chad,7.3,6.1,1/3/22,%,2022,Low income
+Ethiopia,43.9,42.9,1/5/22,%,2022,Low income
+Guinea,12.6,14.7,1/4/22,%,2022,Low income
+Madagascar,7.6,7.3,1/2/22,%,2022,Low income
+Malawi,19.5,17.1,1/4/22,%,2022,Low income
+Mali,10.5,11,1/2/22,%,2022,Low income
+Mozambique,13.51,10.25,1/5/22,%,2022,Low income
+Rwanda,23.8,13.2,1/5/22,%,2022,Low income
+Sierra Leone,23,23,1/4/22,%,2022,Low income
+Somalia,14.74,11.92,1/5/22,%,2022,Low income
+South Sudan,0.08,-10.67,1/4/22,%,2022,Low income
+Togo,13.6,19.1,1/4/22,%,2022,Low income
+Uganda,11,6.9,1/5/22,%,2022,Low income
+Algeria,13.6,13.2,1/3/22,%,2022,Lower middle income
+Angola,30.4,33.1,1/4/22,%,2022,Lower middle income
+Bangladesh,8.3,6.2,1/5/22,%,2022,Lower middle income
+Belize,7.1,6,1/4/22,%,2022,Lower middle income
+Benin,-1,1.9,1/4/22,%,2022,Lower middle income
+Bhutan,3.72,4.01,1/4/22,%,2022,Lower middle income
+Bolivia,0.9,-0.51,1/5/22,%,2022,Lower middle income
+Cambodia,5.68,5.87,1/3/22,%,2022,Lower middle income
+Cameroon,9.8,9.7,1/3/22,%,2022,Lower middle income
+Djibouti,6.8,3.8,1/3/22,%,2022,Lower middle income
+El Salvador,13.28,10.89,1/5/22,%,2022,Lower middle income
+Ghana,30.1,26.6,1/5/22,%,2022,Lower middle income
+Haiti,25.9,25.5,1/2/22,%,2022,Lower middle income
+Honduras,5,3.96,1/5/22,%,2022,Lower middle income
+India,7.84,8.38,1/5/22,%,2022,Lower middle income
+Indonesia,6.23,5.62,1/6/22,%,2022,Lower middle income
+Kenya,13.8,12.4,1/6/22,%,2022,Lower middle income
+Lesotho,7.2,7.4,1/4/22,%,2022,Lower middle income
+Mauritania,13.4,11.4,1/4/22,%,2022,Lower middle income
+Mongolia,18,16.8,1/5/22,%,2022,Lower middle income
+Morocco,8.6,9.4,1/5/22,%,2022,Lower middle income
+Nepal,7.4,7.14,1/4/22,%,2022,Lower middle income
+Nicaragua,16.9,16.2,1/5/22,%,2022,Lower middle income
+Nigeria,19.5,18.37,1/5/22,%,2022,Lower middle income
+Pakistan,25.92,17.25,1/6/22,%,2022,Lower middle income
+Papua New Guinea,6.2,5.2,1/3/22,%,2022,Lower middle income
+Philippines,4.9,3.8,1/5/22,%,2022,Lower middle income
+Senegal,12,11.4,1/5/22,%,2022,Lower middle income
+Sri Lanka,80.1,57.4,1/6/22,%,2022,Lower middle income
+Tajikistan,8.1,7.1,1/4/22,%,2022,Lower middle income
+Tanzania,5.5,6.6,1/5/22,%,2022,Lower middle income
+Tunisia,8.2,8.7,1/5/22,%,2022,Lower middle income
+Ukraine,23.6,22.4,1/5/22,%,2022,Lower middle income
+Vietnam,2.87,2.42,1/6/22,%,2022,Lower middle income
+Zambia,11.9,12.3,1/6/22,%,2022,Lower middle income
+Zimbabwe,225,155,1/6/22,%,2022,Lower middle income
+Albania,11.9,10.4,1/5/22,%,2022,Upper middle income
+Argentina,64.2,62.1,1/5/22,%,2022,Upper middle income
+Armenia,14.5,14.3,1/5/22,%,2022,Upper middle income
+Azerbaijan,17.9,17.4,1/5/22,%,2022,Upper middle income
+Belarus,19,15.6,1/4/22,%,2022,Upper middle income
+Bosnia and Herzegovina,22.7,20.6,1/5/22,%,2022,Upper middle income
+Botswana,8.3,6.1,1/5/22,%,2022,Upper middle income
+Brazil,13.51,13.46,1/5/22,%,2022,Upper middle income
+Bulgaria,22.8,21.3,1/5/22,%,2022,Upper middle income
+China,2.3,1.9,1/5/22,%,2022,Upper middle income
+Colombia,21.6,26.17,1/5/22,%,2022,Upper middle income
+Costa Rica,13.92,11.89,1/5/22,%,2022,Upper middle income
+Dominican Republic,12.9,12.6,1/5/22,%,2022,Upper middle income
+Ecuador,3.97,2.51,1/5/22,%,2022,Upper middle income
+Fiji,3.6,7.1,1/5/22,%,2022,Upper middle income
+Georgia,22,21.3,1/5/22,%,2022,Upper middle income
+Guatemala,7.22,5.62,1/5/22,%,2022,Upper middle income
+Guyana,13.8,13.4,1/4/22,%,2022,Upper middle income
+Iraq,7.83,8.36,1/2/22,%,2022,Upper middle income
+Jamaica,13.85,14.64,1/5/22,%,2022,Upper middle income
+Jordan,5.5,4.1,1/5/22,%,2022,Upper middle income
+Kazakhstan,19.2,19,1/6/22,%,2022,Upper middle income
+Kosovo,17.1,15.1,1/5/22,%,2022,Upper middle income
+Lebanon,364,374,1/5/22,%,2022,Upper middle income
+Libya,5.53,4.88,1/3/22,%,2022,Upper middle income
+Malaysia,5.2,4.1,1/5/22,%,2022,Upper middle income
+Maldives,3.6,3.6,1/4/22,%,2022,Upper middle income
+Mauritius,11.8,17.2,1/5/22,%,2022,Upper middle income
+Mexico,12.79,12.99,1/4/22,%,2022,Upper middle income
+Moldova,30.2,27,1/4/22,%,2022,Upper middle income
+Montenegro,20.6,19,1/5/22,%,2022,Upper middle income
+Namibia,6.6,5.7,1/5/22,%,2022,Upper middle income
+Panama,3.65,3.18,1/4/22,%,2022,Upper middle income
+Paraguay,18.4,19.8,1/5/22,%,2022,Upper middle income
+Peru,13.68,11.78,1/5/22,%,2022,Upper middle income
+Romania,14.25,13.54,1/5/22,%,2022,Upper middle income
+Serbia,16,15.8,1/5/22,%,2022,Upper middle income
+South Africa,7.6,6,1/5/22,%,2022,Upper middle income
+Suriname,60.9,68.3,1/4/22,%,2022,Upper middle income
+Thailand,6.18,4.83,1/5/22,%,2022,Upper middle income
+Turkey,91.6,89.1,1/5/22,%,2022,Upper middle income
+Aruba,8.3,7.2,1/4/22,%,2022,High income
+Australia,4.3,1.9,1/3/22,%,2022,High income
+Austria,9.02,8.37,1/5/22,%,2022,High income
+Bahrain,9.7,10.6,1/4/22,%,2022,High income
+Barbados,17,4.2,1/3/22,%,2022,High income
+Belgium,8.6,6.6,1/6/22,%,2022,High income
+Bermuda,5,4.7,1/2/22,%,2022,High income
+Canada,8.8,8.8,1/5/22,%,2022,High income
+Cayman Islands,4.9,4.3,1/3/22,%,2022,High income
+Chile,17.1,14.8,1/5/22,%,2022,High income
+Croatia,15.2,12.8,1/5/22,%,2022,High income
+Cyprus,8.58,11.04,1/5/22,%,2022,High income
+Czech Republic,15.1,10.7,1/5/22,%,2022,High income
+Denmark,10.1,7.1,1/5/22,%,2022,High income
+Estonia,17,14.6,1/5/22,%,2022,High income
+Finland,9.04,5.96,1/5/22,%,2022,High income
+France,4.3,3.8,1/5/22,%,2022,High income
+Germany,11.1,8.6,1/5/22,%,2022,High income
+Greece,12.1,10.9,1/5/22,%,2022,High income
+Hungary,19.4,16.2,1/5/22,%,2022,High income
+Iceland,6.2,5.2,1/5/22,%,2022,High income
+Ireland,4.4,3.5,1/5/22,%,2022,High income
+Israel,5.5,4.7,1/5/22,%,2022,High income
+Italy,9.1,7.4,1/6/22,%,2022,High income
+Japan,4.1,4,1/5/22,%,2022,High income
+Kuwait,9.13,7.18,1/4/22,%,2022,High income
+Latvia,18.2,17.4,1/5/22,%,2022,High income
+Lithuania,24.8,21.7,1/5/22,%,2022,High income
+Luxembourg,5.5,5.43,1/5/22,%,2022,High income
+Malta,10.4,9,1/5/22,%,2022,High income
+Netherlands,9.2,8.4,1/5/22,%,2022,High income
+New Caledonia,3.73,3.22,1/4/22,%,2022,High income
+New Zealand,6.8,6.4,1/5/22,%,2022,High income
+Norway,2.6,1.7,1/5/22,%,2022,High income
+Oman,4.97,5.43,1/5/22,%,2022,High income
+Poland,13.5,12.7,1/5/22,%,2022,High income
+Portugal,12.3,10.3,1/5/22,%,2022,High income
+Puerto Rico,8.5,7.4,1/4/22,%,2022,High income
+Qatar,3.59,3.44,1/4/22,%,2022,High income
+Saudi Arabia,4.2,4.3,1/5/22,%,2022,High income
+Seychelles,0.2,-0.8,1/5/22,%,2022,High income
+Singapore,4.5,4.1,1/5/22,%,2022,High income
+Slovenia,12.51,10.85,1/6/22,%,2022,High income
+Spain,10.98,10.12,1/5/22,%,2022,High income
+Sweden,8.8,6.7,1/5/22,%,2022,High income
+Switzerland,1.1,-0.3,1/5/22,%,2022,High income
+United Kingdom,8.6,6.7,1/5/22,%,2022,High income
+United States,10.1,9.4,1/5/22,%,2022,High income
+Uruguay,10.2,11.38,1/5/22,%,2022,High income
