@@ -1,20 +1,88 @@
-html, body {
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  html,
+  body {
     margin: 0;
     background: white;
-}
+    font-family: "Playfair Display", serif; /*serif font*/
+    font-size: 1.1rem;
+    color: #4a4a4a;
+  }
+  
+  h1 {
+    font-family: "Playfair Display", serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-top: 3rem;
+    text-align: center;
+  }
+
+  h2 {
+    /*subheader */
+    font-family: "Playfair Display", serif;
+    font-size: 1.8rem;
+    font-weight: bold;
+  }
+  
+  p {
+    margin-bottom: 1rem;
+    line-height: 1.5rem;
+    color: #423c3c;
+  }
+  
+  a {
+    color: rgb(73, 124, 169);
+  }
+  
+  a:hover {
+    color: #903;
+  }
+  
+  .firstcharacter {
+    color: #903;
+    float: left;
+    font-family: Georgia;
+    font-size: 3rem;
+    line-height: 2.5rem;
+    padding-top: 4px;
+    padding-right: 8px;
+    padding-left: 3px;
+  }
+  
+  .deck {
+    font-family: "Playfair Display", serif;
+    font-size: 1.4rem;
+    line-height: 1.6rem;
+    font-weight: bold;
+    font-style: italic;
+    margin-bottom: 2rem;
+  }
+  
+  .caption,
+  .byline {
+    font-size: 1rem;
+  }
+  
+  .byline {
+    font-weight: bold;
+    margin-bottom: 2rem;
+  }
+
+  .caption {
+    font-style: italic;
+  }
 
 .section {
-    max-width: 760px;
+    max-width: 850px;
     margin: 0 auto;
 }
 
 img {
     max-width: 100%
-}
-
-.full-size-image {
-    padding: 15em 0;
-    background-size: cover;
 }
 
 .plot-holder {
@@ -35,8 +103,12 @@ img {
 .plot-holder .subtitle {
     font-weight: bold;
 }
-
-.content h1 {
-    font-size: 2.5em;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
+.spacing-400 {
+    margin-bottom: 2rem;
+  }
+  .spacing-600 {
+    margin-bottom: 4rem;
+  }
+  .spacing-chart {
+    margin: 2rem 0;
+  }
